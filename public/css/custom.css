@@ -1,0 +1,15 @@
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
+.danger{
+	color: red;
+}
+.success{
+	color: green;
+}
+.message{
+	float: right;
+}
